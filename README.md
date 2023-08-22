@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danprovan
-- 👀 I’m interested in ... cloud architecture, data architecture, database administration, .NET development, devops & DR/HA
-- 🌱 I’m currently learning ... python, C#
-- 💞️ I’m looking to collaborate on ... data engineering projects
+- 👀 I’m interested in ... cloud architecture, data architecture, database administration, software development, system engineering, automation, AI accountability
+- 🌱 I’m currently learning ... python, C#, OpenAI
+- 💞️ I’m looking to collaborate on ... data/system/software engineering projects
 - 📫 How to reach me ... leave a comment
 
 <!---
