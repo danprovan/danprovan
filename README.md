@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danprovan
-- 👀 I’m interested in ... cloud architecture, data architecture, database administration, software development, system engineering, automation, AI accountability
+- 👀 I’m interested in ... cloud architecture, data architecture, database administration, software development, system engineering, security, automation, AI accountability
 - 🌱 I’m currently learning ... python, C#, OpenAI
 - 💞️ I’m looking to collaborate on ... data/system/software engineering projects
 - 📫 How to reach me ... leave a comment
